@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Responsible AI Pages
 
-You can use the [editor on GitHub](https://github.com/navaspinheiro/RAI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is for the results of an USP (University of São Paulo) ESALQ essay for the MBA Data Science and Analytics, made by Roberto NAVAS Pinheiro.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Responsible AI  - laws and governance to assure ethical, fairness and transparent AI Business implementation. That was the theme of my essay and I hope you learn from it and apply onto your own AI implementation.
 
 ### Markdown
 
