@@ -2,7 +2,7 @@
 
 This is for the results of an USP (University of São Paulo) ESALQ essay for the MBA Data Science and Analytics, made by Roberto NAVAS Pinheiro.
 
-Responsible AI  - laws and governance to assure ethical, fairness and transparent AI Business implementation. That was the theme of my essay and I hope you learn from it and apply onto your own AI implementation.
+***Responsible AI  - laws and governance to assure ethical, fairness and transparent AI Business implementation***. This was the theme of my essay and I hope you will learn from it and apply sucessfully onto your own AI implementation.
 
 ### Markdown
 
