@@ -34,3 +34,23 @@ Closed questions were object of qualitative measures and answers to open and fre
 
 Attention was giving to protect the privacy of respondents, input of data at the main questionnaire, used to collect data related to Responsible AI awareness, with no personal data on it, this way data privacy was protected by design.
 
+### Results and Discussion
+
+China is the last country in the group of 17 stating controls for Responsible AI, with only 6 Principles entitled onto their country documents about AI strategies. Brazil is at the other side of the table listing 26 Responsible AI principles into their law being voted in 2021. Security of the AI solutions is the major Principle listed by all the countries and international organisms with no exception (100% of the cases), closer followed by principles of Privacy by Design aspects and Transparency in 94% of the cases. Last five years shows numbers of international laws rocking from two publications in 2017 to nine publications in 2021 (350% of increase) showing how hot this topic is worldwide (from seven distinct geographies) and some countries like Japan and Brazil doing publications twice in 2021. 
+
+Regarding these top Artificial Intelligence concerns being addressed by multiple governs, laws and regulatory sandboxes, companies are adopting this on distinct levels. Using the Likert scale of 5 possible answers, the researcher calculated two indexes. 
+
+![image](https://user-images.githubusercontent.com/68818979/172056616-5f05d224-4a0c-4024-9ea2-aad43962e45a.png)
+
+where the total number of respondents that agreed or fully agreed with one AI Principle, in relation with the Total number of respondents, produces the Engagement index – a positive measure meaning that one Principle is being observed by that portion of respondents. 
+
+![image](https://user-images.githubusercontent.com/68818979/172056647-90b26950-72d9-4ee3-9eff-b5a6cb6310c0.png)
+
+where at the other side of the scale, the total number of respondents that disagreed or fully disagreed with one AI Principle, in relation with the Total number of respondents, produced the Disengagement index – a negative measure meaning that one Principle is being neglected by that portion of respondents. 
+
+To visualize this information a Likert bar was plot (Figure 1) meaning that as greater the bar at the right side of Likert scale as greater the Engagement index is and as greater the bar at the left side of the Likert scale as greater the Disengagement index is. Where you can see that Privacy is the major AI Concern being observed by respondents and Fairness is the last one AI Concern being addressed by respondents AI implementations.
+
+![image](https://user-images.githubusercontent.com/68818979/172056662-cf1a8c10-03f3-452d-aac8-906a9875d6fa.png)
+Picture 1 - AI Concerns Engagement according to respondents
+
+A second analysis was about whether respondents perceive AI more as risk or more as opportunity at their department (of a company), at their professional field of occupation (or their profession) and about with their personal life aspects. Where you can see at Picture 2 that more than 93% of respondents perceive AI as an overall Opportunity for their Companies, their Occupation or Profession and their Individual or Personal life. 
