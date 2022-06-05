@@ -194,6 +194,7 @@ Bellow table depicts 17 references of Responsible AI regulation being proposed w
 | OECD     |  |  |  |  | Yes |  |
 | UNESCO   |  |  | Yes |  |  |  |
 | WEF      |  |  | Yes |  |  |  |
+
 <font size="2">Table 1 - Countries and International organisms publicizing Responsible AI Principles strategic plans. Source: original research results. Notes: COM is Current Operating Model, is the actual situation. TOM is Target Operating Model, is the future state desired. NATO states for North Atlantic Treaty Organization. OECD states for Organisation for Economic Co-operation and Development. WEF states for World Economic Forum. References are available at the Bibliography session.
 </font>
 
