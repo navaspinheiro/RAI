@@ -123,7 +123,7 @@ Picture 13 – Respondent’s adoption rate, of NITI recommended practices for M
 
 ![image](https://user-images.githubusercontent.com/68818979/172057213-eb1b83c6-3b73-49ae-a279-7a3e3bad11de.png)
 
-Picture 14 – Respondent’s adoption rate, of NITI recommended practices for Ongoing Monitoring of AI systems
+<font size="2">Picture 14 – Respondent’s adoption rate, of NITI recommended practices for Ongoing Monitoring of AI systems</font>
 
 Demographic data of research respondents is disclosed on Appendix III.
 
