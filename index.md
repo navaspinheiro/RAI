@@ -129,4 +129,48 @@ Demographic data of research respondents is disclosed on Appendix III.
 
 ### Conclusions
 
-From the point of view of the research answers, ***top 4 concern*s*** they are most engaged are Privacy by design, the Safety and the Ethical aspects, and the Data Protection of the AI Solutions. 6,7% of respondents consider AI exclusively as a risk for their Companies, Occupation or Life what denotes a ***very positive perception*** about the AI opportunities. ***80%*** of respondents stated they are aware of and are avoiding The EPRC categories of unacceptable use of AI – what is really a quite good number. Yet ***61,5%*** of respondents on average - a number with margin to be enhanced, are positively engaged with the ERPC categories of Requirements for High-Risk AI Systems as well as ***67%*** of respondents are positively engaged with NITI recommended practices for sponsoring AI Systems – again an opportunity to enhance to a greater coverage of practices. In summary, based on these numbers is possible to say that ***a quite extensive background of responsible AI utilization principles are being transformed in laws in an incredible speed last 5 years and the respondents are supposedly early adopting future regulations closer to be enforced, positioned at the third quartile of the engagement index (61,5% and 67%). This denotes that companies and professional investing on the AI field are aware of the worldwide of regulations forming just ahead of us, already implementing some of the practices with margin for increasing controls for a Responsible AI utilization***.
+From the point of view of the research answers, ***top 4 concern's*** they are most engaged are Privacy by design, the Safety and the Ethical aspects, and the Data Protection of the AI Solutions. 6,7% of respondents consider AI exclusively as a risk for their Companies, Occupation or Life what denotes a ***very positive perception*** about the AI opportunities. ***80%*** of respondents stated they are aware of and are avoiding The EPRC categories of unacceptable use of AI – what is really a quite good number. Yet ***61,5%*** of respondents on average - a number with margin to be enhanced, are positively engaged with the ERPC categories of Requirements for High-Risk AI Systems as well as ***67%*** of respondents are positively engaged with NITI recommended practices for sponsoring AI Systems – again an opportunity to enhance to a greater coverage of practices. In summary, based on these numbers is possible to say that ***a quite extensive background of responsible AI utilization principles are being transformed in laws in an incredible speed last 5 years and the respondents are supposedly early adopting future regulations closer to be enforced, positioned at the third quartile of the engagement index (61,5% and 67%). This denotes that companies and professionals investing on the AI field are aware of the worldwide of regulations forming just ahead of us, already implementing some of the practices with margin for increasing controls for a Responsible AI utilization***.
+
+### References 
+
+Zhang, L. 2020. Initiatives in AI Governance. Available at: https://static1.squarespace.com/static/5ef0b24bc96ec4739e7275d3/t/5fb58df18fbd7f2b94b5b5cd/1605733874729/SRI+1+-+Initiatives+in+AI+Governance.pdf. Access in: 25 Sep. 2021.
+
+Comisión “Desafíos del Futuro, Ciencia, Tecnologia e Innovación”. 2019. Inteligencia Artificial para Chile. Available at: https://www.inria.cl/sites/default/files/2020-04/Propuesta%20Estrategia%20IA%20Chile_1.pdf. Access in: 25 Sep. 2021.  
+
+European Parliament. 2021. Harmonized rules on Artificial Intelligence (Artificial Intelligence Act). Available at: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A52021PC0206. Access in: 16 Oct. 2021.
+
+Executive Office of the President. 2019. Maintaining American Leadership in Artificial Intelligence. Available at: https://www.federalregister.gov/documents/2019/02/14/2019-02544/maintaining-american-leadership-in-artificial-intelligence. Access in: 30 Oct. 2021.
+
+Expert Group on Architecture for AI Principles to be Practice. 2021. AI Governance in Japan. Available at: https://www.meti.go.jp/press/2020/01/20210115003/20210115003-3.pdf. Access in: 30 Oct. 2021.
+
+Ministério da Ciência e Tecnologia e Inovações [MCTI]. 2021. Estratégia Brasileira de Inteligência Artificial – EBIA. Available at: https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/transformacaodigital/inteligencia-artificial. Access in: 25 Sep. 2021. 
+
+Ministry of Economic Affairs and Climate. 2019. Strategic Action Plan for Artificial Intelligence. Available at: https://www.rijksoverheid.nl/ministeries/ministerie-van-economische-zaken-en-klimaat/documenten/beleidsnotas/2019/10/08/strategisch-actieplan-voor-artificiele-intelligentie. Access in: 09 Oct. 2021.
+
+National Institution for Transforming India [NITIA]. 2021. Responsible AI #AIFORALL Approach Document for India. Available at: https://www.niti.gov.in/sites/default/files/2021-02/Responsible-AI-22022021.pdf. Access in: 11 Oct. 2021.
+
+North Atlantic Treaty Organization [NATO]. 2021. Summary of the NATO Artificial Intelligence Strategy. Available at: https://www.nato.int/cps/en/natohq/official_texts_187617.htm. Access in: 31 October 2021.
+
+Organization for Economic Co-operation and Development [OECD]. Recommendation of the Council on Artificial Intelligence. 2019. Available at: https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449. Access in: 21 Oct. 2021.
+
+Personal Data Protection Commission [PDPC]. 2019. Artificial Intelligence Governance Framework 2nd edition. Available at: https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/resource-for-organisation/ai/sgmodelaigovframework2.pdf. Access in: 30 Oct. 2021.
+
+Secretary of State for Digital, Culture, Media and Sport by Command of Her Majesty. 2021. National AI Strategy. Available at: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1020402/National_AI_Strategy_-_PDF_version.pdf. Access in: 30 Oct. 2021.
+
+The German Federal Government. 2020. Artificial Intelligence Strategy. Available at: https://www.ki-strategie-deutschland.de/files/downloads/Fortschreibung_KI-Strategie_engl.pdf. Access in: 16 Oct. 2021.
+
+The State Council. 2017. New Generation Artificial Intelligence development plan. Available at: http://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm. Access in: 16 Oct. 2021.
+
+UAE Government. 2017. UAE Strategy for Artificial Intelligence. Available at: https://u.ae/en/about-the-uae/strategies-initiatives-and-awards/federal-governments-strategies-and-plans/uae-strategy-for-artificial-intelligence. Access in: 16 Oct. 2021.
+
+United Nations Educational, Scientific and Cultural Organization [UNESCO]. 2020. Recommendation on the Ethics of Artificial Intelligence. Available at: https://unesdoc.unesco.org/ark:/48223/pf0000373434. Access in: 27 Nov. 2021.
+
+World Economic Forum [WEF]. 2019. AI Governance: A Holistic Approach to Implement Ethics into AI. Available at: https://www.weforum.org/whitepapers/ai-governance-a-holistic-approach-to-implement-ethics-into-ai. Access in: 21 Oct. 2021.
+
+### Appendixes
+ 
+Additional content related to the research with detailed data supporting the information shared during the above sessions. 
+
+***Appendix I – INTERNATIONAL LANDSCAPE of RESPONSIBLE AI PRINCIPLES***
+
+Bellow table depicts 17 references of Responsible AI regulation being proposed worldwide by 13 Countries and four international organisms globally distributed from east to west, from Americas to Asia passing by the European Union.
