@@ -89,4 +89,3 @@ Picture 6 – Respondent’s adoption rate, of ERPC categories of requirements o
 After ERPC questionnaire, respondents were presented to the NITI recommendations of 8 practices to be adopted for better AI systems. Being the practices respectively: 1) Problem Definition and Scoping; 2) Data Collection; 3) Data Labelling; 4) Model Selection; 5) Model Training; 6) Model Evaluation; 7) Model Deployment and 8) Ongoing Monitoring.
 
 The engagement index to each of the NITI’s pack of practices are depicted on Pictures 7 until 14.
-
