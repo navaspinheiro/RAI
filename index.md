@@ -41,13 +41,13 @@ China is the last country in the group of 17 stating controls for Responsible AI
 Regarding these top Artificial Intelligence concerns being addressed by multiple governs, laws and regulatory sandboxes, companies are adopting this on distinct levels. Using the Likert scale of 5 possible answers, the researcher calculated two indexes. 
 
 <p align = "center">
-  ![image](https://user-images.githubusercontent.com/68818979/172056616-5f05d224-4a0c-4024-9ea2-aad43962e45a.png)
+![image](https://user-images.githubusercontent.com/68818979/172056616-5f05d224-4a0c-4024-9ea2-aad43962e45a.png)
 </p>
 
 where the total number of respondents that agreed or fully agreed with one AI Principle, in relation with the Total number of respondents, produces the Engagement index – a positive measure meaning that one Principle is being observed by that portion of respondents. 
 
 <p align = "center">
-  ![image](https://user-images.githubusercontent.com/68818979/172056647-90b26950-72d9-4ee3-9eff-b5a6cb6310c0.png)
+![image](https://user-images.githubusercontent.com/68818979/172056647-90b26950-72d9-4ee3-9eff-b5a6cb6310c0.png)
 </p>
 
 where at the other side of the scale, the total number of respondents that disagreed or fully disagreed with one AI Principle, in relation with the Total number of respondents, produced the Disengagement index – a negative measure meaning that one Principle is being neglected by that portion of respondents. 
