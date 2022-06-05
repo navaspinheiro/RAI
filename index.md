@@ -171,6 +171,7 @@ World Economic Forum [WEF]. 2019. AI Governance: A Holistic Approach to Implemen
  
 Additional content related to the research with detailed data supporting the information shared during the above sessions. 
 
+
 ***Appendix I – INTERNATIONAL LANDSCAPE of RESPONSIBLE AI PRINCIPLES***
 
 Bellow table depicts 17 references of Responsible AI regulation being proposed worldwide by 13 Countries and four international organisms globally distributed from east to west, from Americas to Asia passing by the European Union.
@@ -195,6 +196,54 @@ Bellow table depicts 17 references of Responsible AI regulation being proposed w
 | UNESCO   |  |  | Yes |  |  |  |
 | WEF      |  |  | Yes |  |  |  |
 
-<font size="2">Table 1 - Countries and International organisms publicizing Responsible AI Principles strategic plans. Source: original research results. Notes: COM is Current Operating Model, is the actual situation. TOM is Target Operating Model, is the future state desired. NATO states for North Atlantic Treaty Organization. OECD states for Organisation for Economic Co-operation and Development. WEF states for World Economic Forum. References are available at the Bibliography session.
+<font size="2">Table 1 - Countries and International organisms publicizing Responsible AI Principles strategic plans. Source: original research results. Notes: COM is Current Operating Model, is the actual situation. TOM is Target Operating Model, is the future state desired. NATO states for North Atlantic Treaty Organization. OECD states for Organisation for Economic Co-operation and Development. WEF states for World Economic Forum. Source references are available at the References session.
 </font>
+
+The infographic bellow visually shows the number of publications addressing Responsible AI Principles in the recent years, with increasing number of new countries stating their principles.
+
+![image](https://user-images.githubusercontent.com/68818979/172059762-f6cb9074-555b-443a-9640-b70d43dfab02.png)
+
+<font size="2">Picture 15 – infographic with countries and organisms’ publications last 5 years</font>
+
+Compiling this list of above 17 publications of 13 countries and four international organisms, an ordered list of Responsible AI Principles was possible to be obtained, resulting on a graph showing the common sense between these places, the topmost concern, and the lesser common principles that received citation by these countries strategies to address a Responsible AI utilization.
+
+![image](https://user-images.githubusercontent.com/68818979/172059822-ee8b1f75-0b2f-44bb-a296-57fec2332c34.png)
+
+<font size="2">Picture 16 – Responsible AI Principles supported by each of the countries</font>
+
+And compiling the number of Responsible AI Principles that were cited by each Country and International Organism we have this ordered list.
+
+
+***Appendix II – Research questionnaire***
+
+Based onto the curated data gathered from the 17 countries publications about Responsible AI between 2017 and 2021, one questionnaire was draw aiming to gather demography data and the engagement and disengagement indexes related to major AI principles. Questionnaire sessions and questions are shown at the link bellow.
+
+https://drive.google.com/file/d/1AyJ_XohCjrR64XC0At25r_Ig8q1r7DYh/view?usp=sharing 
+
+
+***Appendix III – Demographic data***
+
+Respondents’ demographic data – with no personal data attached to.
+
+![image](https://user-images.githubusercontent.com/68818979/172059949-64980a57-7331-41be-ad77-4fd18f1c7cb8.png)
+
+<font size="2">Picture 17 – respondent’s demographic data by Economic Sectors (A), Market Segment (B), Roles (C) and Department (D)</font>
+
+In relation to the country where the respondent company is head-quartered, this is the geographical distribution, based on each country’s capital geolocation.
+
+![image](https://user-images.githubusercontent.com/68818979/172059980-bfe177f4-376b-47e5-9531-95bb889add1c.png)
+
+<font size="2">Picture 18 – geolocation of country’s capital of where are the respondent’s companies headquartered. Image source: produced using R tool and the tmap library</font>
+
+![image](https://user-images.githubusercontent.com/68818979/172060006-dc586d8e-3244-4820-9494-f673da8a1c31.png)
+
+<font size="2">Picture 19 – Country of the headquarter of respondent’s organizations</font>
+
+Supporting the conclusions – at the body of the text, these three graphs depicted together demonstrates that the major portion of respondents are positively engaged with the Responsible AI principles, all of them positioned at least onto the third quartile of respective graphs, comparing both with the same scale, from 0 (zero) to 100% of engagement index.
+
+![image](https://user-images.githubusercontent.com/68818979/172060027-99d4df75-b55e-4cfa-b121-10d6be55b610.png)
+
+<font size="2">Picture 20 – Major engagement indexes supporting RAI principles, the Requirements for high-risk AI systems and the NITI practices</font>
+
+
 
