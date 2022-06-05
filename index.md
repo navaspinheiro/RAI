@@ -92,3 +92,42 @@ Picture 6 – Respondent’s adoption rate, of ERPC categories of requirements o
 After ERPC questionnaire, respondents were presented to the NITI recommendations of 8 practices to be adopted for better AI systems. Being the practices respectively: 1) Problem Definition and Scoping; 2) Data Collection; 3) Data Labelling; 4) Model Selection; 5) Model Training; 6) Model Evaluation; 7) Model Deployment and 8) Ongoing Monitoring.
 
 The engagement index to each of the NITI’s pack of practices are depicted on Pictures 7 until 14.
+
+![image](https://user-images.githubusercontent.com/68818979/172057129-a8f2ab16-351a-4b75-8cbc-6571e5404ad0.png)
+
+Picture 7 – Respondent’s adoption rate, of NITI recommend practices for Problem Definition and Scoping of AI systems
+
+![image](https://user-images.githubusercontent.com/68818979/172057144-fb613334-e8b3-4dac-8c77-301de24c4c32.png)
+
+Picture 8 – Respondent’s adoption rate, of NITI recommended practices for Data Collections of AI systems
+
+![image](https://user-images.githubusercontent.com/68818979/172057156-9b40cd38-1c57-482a-a633-e87422f53c32.png)
+
+Picture 9 – Respondent’s adoption rate, of NITI recommended practices for Data Labeling of AI systems
+
+![image](https://user-images.githubusercontent.com/68818979/172057167-07251742-c667-4482-b044-b5864288f889.png)
+
+Picture 10 - Respondent’s adoption rate, of NITI recommended practices for Model Selection of AI systems
+
+![image](https://user-images.githubusercontent.com/68818979/172057178-0a07091c-e79e-46a0-888b-a321afbf2bce.png)
+
+Picture 11 – Respondent’s adoption rate, of NITI recommended practices for Model Training of AI systems
+
+![image](https://user-images.githubusercontent.com/68818979/172057186-534becab-3607-4b80-9878-3eb64c0fa9d4.png)
+
+Picture 12 – Respondent’s adoption rate, of NITI recommended practices for Model Evaluation for AI Systems
+
+![image](https://user-images.githubusercontent.com/68818979/172057201-bfd9ea55-479e-4a7e-84d0-5d02eb85fbd3.png)
+
+Picture 13 – Respondent’s adoption rate, of NITI recommended practices for Model Deployment for AI systems
+
+![image](https://user-images.githubusercontent.com/68818979/172057213-eb1b83c6-3b73-49ae-a279-7a3e3bad11de.png)
+
+Picture 14 – Respondent’s adoption rate, of NITI recommended practices for Ongoing Monitoring of AI systems
+
+Demographic data of research respondents is disclosed on Appendix III.
+
+### Conclusions
+
+From the point of view of the research answers, top 4 concerns they are most engaged are Privacy by design, the Safety and the Ethical aspects, and the Data Protection of the AI Solutions. 6,7% of respondents consider AI exclusively as a risk for their Companies, Occupation or Life what denotes a very positive perception about the AI opportunities. 80% of respondents stated they are aware of and are avoiding The EPRC categories of unacceptable use of AI – what is really a quite good number. Yet 61,5% of respondents on average - a number with margin to be enhanced, are positively engaged with the ERPC categories of Requirements for High-Risk AI Systems as well as 67% of respondents are positively engaged with NITI recommended practices for sponsoring AI Systems – again an opportunity to enhance to a greater coverage of practices. In summary, based on these numbers is possible to say that a quite extensive background of responsible AI utilization principles are being transformed in laws in an incredible speed last 5 years and the respondents are supposedly early adopting future regulations closer to be enforced, positioned at the third quartile of the engagement index (61,5% and 67%). This denotes that companies and professional investing on the AI field are aware of the worldwide of regulations forming just ahead of us, already implementing some of the practices with margin for increasing controls for a Responsible AI utilization.
+
