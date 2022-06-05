@@ -174,3 +174,24 @@ Additional content related to the research with detailed data supporting the inf
 ***Appendix I – INTERNATIONAL LANDSCAPE of RESPONSIBLE AI PRINCIPLES***
 
 Bellow table depicts 17 references of Responsible AI regulation being proposed worldwide by 13 Countries and four international organisms globally distributed from east to west, from Americas to Asia passing by the European Union.
+
+| Country  | Is a Regulation | Describes the COM? | Gives Future Vision? | Describes a TOM? | Is a Strategic Plan? | Has a Self-Assessment? | 
+|--------- | --------------- | ------------------ | -------------------- | ---------------- | -------------------- | ---------------------- |
+| Belgium  |  | Yes |  |  |  |  | 
+| Brazil   | Yes | Yes |  |  | Yes |  | 
+| Chile    |  | Yes |  |  | Yes |  |
+| China    |  |  | Yes | Yes | Yes |  |
+| Dubai    |  |  |  |  | Yes |  |
+| Euro     | Yes |  | Yes | Yes | Yes | Yes |
+| Germany  |  |  |  |  | Yes |  |
+| India    |  |  | Yes |  | Yes | Yes |
+| Japan    |  |  | Yes |  | Yes |  |
+| Singapore |  |  | Yes |  | Yes | Yes |
+| The Netherlands |  | Yes | Yes |  | Yes |  |
+| The United Kindgon |  |  | Yes |  | Yes |  |
+| The United States of America | Yes |  |  |  | Yes |  |
+| NATO     |  |  |  |  | Yes |  |
+| OECD     |  |  |  |  | Yes |  |
+| UNESCO   |  |  | Yes |  |  |  |
+| WEF      |  |  | Yes |  |  |  |
+
