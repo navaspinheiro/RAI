@@ -48,9 +48,45 @@ where the total number of respondents that agreed or fully agreed with one AI Pr
 
 where at the other side of the scale, the total number of respondents that disagreed or fully disagreed with one AI Principle, in relation with the Total number of respondents, produced the Disengagement index – a negative measure meaning that one Principle is being neglected by that portion of respondents. 
 
-To visualize this information a Likert bar was plot (Figure 1) meaning that as greater the bar at the right side of Likert scale as greater the Engagement index is and as greater the bar at the left side of the Likert scale as greater the Disengagement index is. Where you can see that Privacy is the major AI Concern being observed by respondents and Fairness is the last one AI Concern being addressed by respondents AI implementations.
+To visualize this information a Likert bar was plot (Picture 1) meaning that as greater the bar at the right side of Likert scale as greater the Engagement index is and as greater the bar at the left side of the Likert scale as greater the Disengagement index is. Where you can see that Privacy is the major AI Concern being observed by respondents and Fairness is the last one AI Concern being addressed by respondents AI implementations.
 
 ![image](https://user-images.githubusercontent.com/68818979/172056662-cf1a8c10-03f3-452d-aac8-906a9875d6fa.png)
 Picture 1 - AI Concerns Engagement according to respondents
 
 A second analysis was about whether respondents perceive AI more as risk or more as opportunity at their department (of a company), at their professional field of occupation (or their profession) and about with their personal life aspects. Where you can see at Picture 2 that more than 93% of respondents perceive AI as an overall Opportunity for their Companies, their Occupation or Profession and their Individual or Personal life. 
+
+![image](https://user-images.githubusercontent.com/68818979/172056776-2f12975b-e337-4e29-b698-b37bbe0c05f0.png)
+Picture 2 – How is AI perceived at Companies, Professional and at Personal life
+
+Pictures 3 and 4 describe some natural language processing analysis comparing answers to open questions for respondents more perceiving AI as a risk (Negativity bias) and respondents more perceiving AI as an opportunity (Positivity bias).
+
+![image](https://user-images.githubusercontent.com/68818979/172056817-9390acd9-2c6a-460f-bedf-55b1757709c1.png)
+Picture 3 – overall comments for the full respondents
+
+![image](https://user-images.githubusercontent.com/68818979/172056834-77e5c9b9-d972-48a9-855e-526cdfc2bbe5.png)
+Picture 4 – comments for who’s classified its perceptions of AI utilization more as Risk (on left side) and who’s classified more as Opportunities (on right side)
+
+For your information, word cloud plots were made tokenizing words following these restrictions: minimal frequency equal two, removed unnecessary words in Portuguese and English, all words in lower case, no white spaces, no punctuation, and no numbers. No stemming was done to contribute with a better clarity of the readers.
+
+Third aspect was to compare respondents’ self-assessment answers into the Responsible AI assessments defined by the European Parliament Regulation Council [ERPC] (European Parliament, 2021); and the National Institution for Transforming India [NITIA] (NITIA, 2021).
+
+Picture 5 shows self-assessment results using a Miller scale bar plot, visualizing the information showing when one Category of unacceptable AI according ERPC is being avoid.
+
+![image](https://user-images.githubusercontent.com/68818979/172056852-7452c195-c696-4815-ba10-a37d8ade8dfb.png)
+Picture 5 – Respondents’ adoption rate of categories of unacceptable utilization of AI system according to the ERPC. Left side of avoiders is preferably
+
+Besides of unacceptable categories of utilization of AI systems, respondents made a self-assessment of their engagement index about ERPC Categories of Requirements for High-Risk AI systems. In alphabetic order, the categories are bellow, with Picture 6 showing the respondent’s engagement index:
+
+-	Classification of the trustworthiness of natural personal based on their social behavior with social scoring leading to detrimental or unfavorable treatment of certain natural persons or whole groups,
+-	Exploration of vulnerabilities of specific vulnerable groups, like children or disabled persons, to materially distort their behavior in a manner that is likely to cause them or another person psychological or physical harm,
+-	Manipulation of persons through subliminal techniques beyond their consciousness,
+-	Use of real time remote biometric identification system in publicly accessible spaces for the purpose of law enforcement,
+-	Violation of fundamental rights.
+
+![image](https://user-images.githubusercontent.com/68818979/172056872-23b6dd01-57ef-4b1b-a27f-fa85e753cb66.png)
+Picture 6 – Respondent’s adoption rate, of ERPC categories of requirements or obligations to be observed by High-Risk AI systems or to whose providers
+
+After ERPC questionnaire, respondents were presented to the NITI recommendations of 8 practices to be adopted for better AI systems. Being the practices respectively: 1) Problem Definition and Scoping; 2) Data Collection; 3) Data Labelling; 4) Model Selection; 5) Model Training; 6) Model Evaluation; 7) Model Deployment and 8) Ongoing Monitoring.
+
+The engagement index to each of the NITI’s pack of practices are depicted on Pictures 7 until 14.
+
