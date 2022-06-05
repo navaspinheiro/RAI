@@ -131,3 +131,15 @@ Demographic data of research respondents is disclosed on Appendix III.
 
 From the point of view of the research answers, top 4 concerns they are most engaged are Privacy by design, the Safety and the Ethical aspects, and the Data Protection of the AI Solutions. 6,7% of respondents consider AI exclusively as a risk for their Companies, Occupation or Life what denotes a very positive perception about the AI opportunities. 80% of respondents stated they are aware of and are avoiding The EPRC categories of unacceptable use of AI – what is really a quite good number. Yet 61,5% of respondents on average - a number with margin to be enhanced, are positively engaged with the ERPC categories of Requirements for High-Risk AI Systems as well as 67% of respondents are positively engaged with NITI recommended practices for sponsoring AI Systems – again an opportunity to enhance to a greater coverage of practices. In summary, based on these numbers is possible to say that a quite extensive background of responsible AI utilization principles are being transformed in laws in an incredible speed last 5 years and the respondents are supposedly early adopting future regulations closer to be enforced, positioned at the third quartile of the engagement index (61,5% and 67%). This denotes that companies and professional investing on the AI field are aware of the worldwide of regulations forming just ahead of us, already implementing some of the practices with margin for increasing controls for a Responsible AI utilization.
 
+ <font size="1"> This is my text number1</font> 
+
+ <font size="2"> This is my text number 2 </font>
+ 
+ <font size="3"> This is my text number 3</font> 
+ 
+ <font size="4"> This is my text number 4</font> 
+ 
+ <font size="5"> This is my text number 5</font> 
+ 
+ <font size="6"> This is my text number 6</font>
+ 
