@@ -56,14 +56,17 @@ Picture 1 - AI Concerns Engagement according to respondents
 A second analysis was about whether respondents perceive AI more as risk or more as opportunity at their department (of a company), at their professional field of occupation (or their profession) and about with their personal life aspects. Where you can see at Picture 2 that more than 93% of respondents perceive AI as an overall Opportunity for their Companies, their Occupation or Profession and their Individual or Personal life. 
 
 ![image](https://user-images.githubusercontent.com/68818979/172056776-2f12975b-e337-4e29-b698-b37bbe0c05f0.png)
+
 Picture 2 – How is AI perceived at Companies, Professional and at Personal life
 
 Pictures 3 and 4 describe some natural language processing analysis comparing answers to open questions for respondents more perceiving AI as a risk (Negativity bias) and respondents more perceiving AI as an opportunity (Positivity bias).
 
 ![image](https://user-images.githubusercontent.com/68818979/172056817-9390acd9-2c6a-460f-bedf-55b1757709c1.png)
+
 Picture 3 – overall comments for the full respondents
 
 ![image](https://user-images.githubusercontent.com/68818979/172056834-77e5c9b9-d972-48a9-855e-526cdfc2bbe5.png)
+
 Picture 4 – comments for who’s classified its perceptions of AI utilization more as Risk (on left side) and who’s classified more as Opportunities (on right side)
 
 For your information, word cloud plots were made tokenizing words following these restrictions: minimal frequency equal two, removed unnecessary words in Portuguese and English, all words in lower case, no white spaces, no punctuation, and no numbers. No stemming was done to contribute with a better clarity of the readers.
