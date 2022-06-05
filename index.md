@@ -131,6 +131,31 @@ Demographic data of research respondents is disclosed on Appendix III.
 
 From the point of view of the research answers, ***top 4 concern's*** they are most engaged are Privacy by design, the Safety and the Ethical aspects, and the Data Protection of the AI Solutions. 6,7% of respondents consider AI exclusively as a risk for their Companies, Occupation or Life what denotes a ***very positive perception*** about the AI opportunities. ***80%*** of respondents stated they are aware of and are avoiding The EPRC categories of unacceptable use of AI – what is really a quite good number. Yet ***61,5%*** of respondents on average - a number with margin to be enhanced, are positively engaged with the ERPC categories of Requirements for High-Risk AI Systems as well as ***67%*** of respondents are positively engaged with NITI recommended practices for sponsoring AI Systems – again an opportunity to enhance to a greater coverage of practices. In summary, based on these numbers is possible to say that ***a quite extensive background of responsible AI utilization principles are being transformed in laws in an incredible speed last 5 years and the respondents are supposedly early adopting future regulations closer to be enforced, positioned at the third quartile of the engagement index (61,5% and 67%). This denotes that companies and professionals investing on the AI field are aware of the worldwide of regulations forming just ahead of us, already implementing some of the practices with margin for increasing controls for a Responsible AI utilization***.
 
+### Where to go from here
+
+Aiming to contribute to you about how to attend all this sort of regulations, my recommendation is that value doesn’t magically comes from data just applying a ‘tier’ of AI – what is something that someone would like of having. Instead, for whose that are engaged onto the AI and Machine Learning [ML] world will recognizes their selves day by day routine of ML Operations as something closer to this flow of activities.
+
+![image](https://user-images.githubusercontent.com/68818979/172060724-e76c41c0-875a-4c21-ae5c-5235cca6df0a.png)
+
+Business problems are understood, data is Scoped and understood where to Source from, after this data is Collected, and have their Quality assured – a small group of tasks that takes a lot of time to do.
+
+Then Data Science steps can walk through Exploratory Data Analysis, data Cleansing, Normalization and Dimensionality reduction techniques – when necessary, Models to represent the problem we are solving are Selected, Trained and had their Hyperparameters Tunned for looking the balance between over and under fit with the reality, balance between bias – to much specific to training data and variance – to incorrectly predicting. 
+
+To reach out the best solution models are Evaluated, Compared, sometimes Learning can be Transferred and/or Reinforced, and sometimes a sort of models can be Ensembled for a best solution, that maybe, it can be such complex that it will requires resources to be explainable the AI, like Local Interpretable Model-Agnostic Explanations [LIME] and Shapley Additive exPlanations [SHAP], to bring lights on automated decisions. 
+
+Well after this long Journey you are ready to start! 
+
+Yes, now you can start to Deploy your AI to operation, then you start to Monitor its performance and maybe their Flaw, somehow you Retrain your model when it is Drifting from the reality, and maybe you either Retired your model. 
+
+Ok, then you are asking where the Responsible AI Principles are, well, they spans multiple aspects of your AI development process, like this way:
+
+![image](https://user-images.githubusercontent.com/68818979/172060763-594b90cd-2c48-45bf-8ae9-da2293ac6437.png)
+
+And giving you straight forward guidance on how to implement all these Principles by means of internal controls and routines, you have that:
+
+![image](https://user-images.githubusercontent.com/68818979/172060770-46f246b3-e4af-4a8b-baa8-0cca933fc9a3.png)
+
+
 ### References 
 
 Zhang, L. 2020. Initiatives in AI Governance. Available at: https://static1.squarespace.com/static/5ef0b24bc96ec4739e7275d3/t/5fb58df18fbd7f2b94b5b5cd/1605733874729/SRI+1+-+Initiatives+in+AI+Governance.pdf. Access in: 25 Sep. 2021.
