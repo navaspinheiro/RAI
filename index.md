@@ -192,6 +192,10 @@ United Nations Educational, Scientific and Cultural Organization [UNESCO]. 2020.
 
 World Economic Forum [WEF]. 2019. AI Governance: A Holistic Approach to Implement Ethics into AI. Available at: https://www.weforum.org/whitepapers/ai-governance-a-holistic-approach-to-implement-ethics-into-ai. Access in: 21 Oct. 2021.
 
+These were the countries and international organisms studied.
+
+![image](https://user-images.githubusercontent.com/68818979/172497276-b19b858a-84ba-4b1c-89e4-f1155474d065.png)
+
 ### Appendixes
  
 Additional content related to the research with detailed data supporting the information shared during the above sessions. 
