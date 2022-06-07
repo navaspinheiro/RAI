@@ -205,6 +205,8 @@ Additional content related to the research with detailed data supporting the inf
 
 Bellow table depicts 17 references of Responsible AI regulation being proposed worldwide by 13 Countries and four international organisms globally distributed from east to west, from Americas to Asia passing by the European Union.
 
+<font size="2">
+
 | Country  | Is a Regulation | Describes the COM? | Gives Future Vision? | Describes a TOM? | Is a Strategic Plan? | Has a Self-Assessment? | 
 |--------- | --------------- | ------------------ | -------------------- | ---------------- | -------------------- | ---------------------- |
 | Belgium  |  | Yes |  |  |  |  | 
@@ -225,6 +227,8 @@ Bellow table depicts 17 references of Responsible AI regulation being proposed w
 | UNESCO   |  |  | Yes |  |  |  |
 | WEF      |  |  | Yes |  |  |  |
 
+</font>
+ 
 <font size="2">Table 1 - Countries and International organisms publicizing Responsible AI Principles strategic plans. Source: original research results. Notes: COM is Current Operating Model, is the actual situation. TOM is Target Operating Model, is the future state desired. NATO states for North Atlantic Treaty Organization. OECD states for Organisation for Economic Co-operation and Development. WEF states for World Economic Forum. Source references are available at the References session.
 </font>
 
