@@ -51,32 +51,32 @@ where at the other side of the scale, the total number of respondents that disag
 To visualize this information a Likert bar was plot (Picture 1) meaning that as greater the bar at the right side of Likert scale as greater the Engagement index is and as greater the bar at the left side of the Likert scale as greater the Disengagement index is. Where you can see that Privacy is the major AI Concern being observed by respondents and Fairness is the last one AI Concern being addressed by respondents AI implementations.
 
 ![image](https://user-images.githubusercontent.com/68818979/172056662-cf1a8c10-03f3-452d-aac8-906a9875d6fa.png)
-<font size="2">Picture 1 - AI Concerns Engagement according to respondents</font>
+<font size="2">Figure 1 - AI Concerns Engagement according to respondents. Source: Research results</font>
 
 A second analysis was about whether respondents perceive AI more as risk or more as opportunity at their department (of a company), at their professional field of occupation (or their profession) and about with their personal life aspects. Where you can see at Picture 2 that more than 93% of respondents perceive AI as an overall Opportunity for their Companies, their Occupation or Profession and their Individual or Personal life. 
 
 ![image](https://user-images.githubusercontent.com/68818979/172056776-2f12975b-e337-4e29-b698-b37bbe0c05f0.png)
 
-<font size="2">Picture 2 – How is AI perceived at Companies, Professional and at Personal life</font>
+<font size="2">Figure 2 – How is AI perceived at Companies, Professional and at Personal life. Source: Research results</font>
 
 Pictures 3 and 4 describe some natural language processing analysis comparing answers to open questions for respondents more perceiving AI as a risk (Negativity bias) and respondents more perceiving AI as an opportunity (Positivity bias).
 
 ![image](https://user-images.githubusercontent.com/68818979/172056817-9390acd9-2c6a-460f-bedf-55b1757709c1.png)
 
-<font size="2">Picture 3 – overall comments for the full respondents</font>
+<font size="2">Figure 3 – overall comments for the full respondents. Source: Research results</font>
 
 ![image](https://user-images.githubusercontent.com/68818979/172056834-77e5c9b9-d972-48a9-855e-526cdfc2bbe5.png)
 
-<font size="2">Picture 4 – comments for who’s classified its perceptions of AI utilization more as Risk (on left side) and who’s classified more as Opportunities (on right side)</font>
+<font size="2">Figure 4 – comments for who’s classified its perceptions of AI utilization more as Risk (on left side) and who’s classified more as Opportunities (on right side). Source: Research results</font>
 
 For your information, word cloud plots were made tokenizing words following these restrictions: minimal frequency equal two, removed unnecessary words in Portuguese and English, all words in lower case, no white spaces, no punctuation, and no numbers. No stemming was done to contribute with a better clarity of the readers.
 
 Third aspect was to compare respondents’ self-assessment answers into the Responsible AI assessments defined by the European Parliament Regulation Council [ERPC] (European Parliament, 2021); and the National Institution for Transforming India [NITIA] (NITIA, 2021).
 
-Picture 5 shows self-assessment results using a Miller scale bar plot, visualizing the information showing when one Category of unacceptable AI according ERPC is being avoid.
+Figure 5 shows self-assessment results using a Miller scale bar plot, visualizing the information showing when one Category of unacceptable AI according ERPC is being avoid.
 
 ![image](https://user-images.githubusercontent.com/68818979/172056852-7452c195-c696-4815-ba10-a37d8ade8dfb.png)
-<font size="2">Picture 5 – Respondents’ adoption rate of categories of unacceptable utilization of AI system according to the ERPC. Left side of avoiders is preferably</font>
+<font size="2">Picture 5 – Respondents’ adoption rate of categories of unacceptable utilization of AI system according to the ERPC. Left side of avoiders is preferably. Source: Research results</font>
 
 Besides of unacceptable categories of utilization of AI systems, respondents made a self-assessment of their engagement index about ERPC Categories of Requirements for High-Risk AI systems. In alphabetic order, the categories are bellow, with Picture 6 showing the respondent’s engagement index:
 
@@ -87,7 +87,7 @@ Besides of unacceptable categories of utilization of AI systems, respondents mad
 -	Violation of fundamental rights.
 
 ![image](https://user-images.githubusercontent.com/68818979/172056872-23b6dd01-57ef-4b1b-a27f-fa85e753cb66.png)
-<font size="2">Picture 6 – Respondent’s adoption rate, of ERPC categories of requirements or obligations to be observed by High-Risk AI systems or to whose providers</font>
+<font size="2">Figure 6 – Respondent’s adoption rate, of ERPC categories of requirements or obligations to be observed by High-Risk AI systems or to whose providers. Source: Research results</font>
 
 After ERPC questionnaire, respondents were presented to the NITI recommendations of 8 practices to be adopted for better AI systems. Being the practices respectively: 1) Problem Definition and Scoping; 2) Data Collection; 3) Data Labelling; 4) Model Selection; 5) Model Training; 6) Model Evaluation; 7) Model Deployment and 8) Ongoing Monitoring.
 
@@ -95,35 +95,35 @@ The engagement index to each of the NITI’s pack of practices are depicted on P
 
 ![image](https://user-images.githubusercontent.com/68818979/172057129-a8f2ab16-351a-4b75-8cbc-6571e5404ad0.png)
 
-<font size="2">Picture 7 – Respondent’s adoption rate, of NITI recommend practices for Problem Definition and Scoping of AI systems</font>
+<font size="2">Figure 7 – Respondent’s adoption rate, of NITI recommend practices for Problem Definition and Scoping of AI systems. Source: Research results</font>
 
 ![image](https://user-images.githubusercontent.com/68818979/172057144-fb613334-e8b3-4dac-8c77-301de24c4c32.png)
 
-<font size="2">Picture 8 – Respondent’s adoption rate, of NITI recommended practices for Data Collections of AI systems</font>
+<font size="2">Figure 8 – Respondent’s adoption rate, of NITI recommended practices for Data Collections of AI systems. Source: Research results</font>
 
 ![image](https://user-images.githubusercontent.com/68818979/172057156-9b40cd38-1c57-482a-a633-e87422f53c32.png)
 
-<font size="2">Picture 9 – Respondent’s adoption rate, of NITI recommended practices for Data Labeling of AI systems</font>
+<font size="2">Figure 9 – Respondent’s adoption rate, of NITI recommended practices for Data Labeling of AI systems. Source: Research results</font>
 
 ![image](https://user-images.githubusercontent.com/68818979/172057167-07251742-c667-4482-b044-b5864288f889.png)
 
-<font size="2">Picture 10 - Respondent’s adoption rate, of NITI recommended practices for Model Selection of AI systems</font>
+<font size="2">Figure 10 - Respondent’s adoption rate, of NITI recommended practices for Model Selection of AI systems. Source: Research results</font>
 
 ![image](https://user-images.githubusercontent.com/68818979/172057178-0a07091c-e79e-46a0-888b-a321afbf2bce.png)
 
-<font size="2">Picture 11 – Respondent’s adoption rate, of NITI recommended practices for Model Training of AI systems</font>
+<font size="2">Figure 11 – Respondent’s adoption rate, of NITI recommended practices for Model Training of AI systems. Source: Research results</font>
 
 ![image](https://user-images.githubusercontent.com/68818979/172057186-534becab-3607-4b80-9878-3eb64c0fa9d4.png)
 
-<font size="2">Picture 12 – Respondent’s adoption rate, of NITI recommended practices for Model Evaluation for AI Systems</font>
+<font size="2">Figure 12 – Respondent’s adoption rate, of NITI recommended practices for Model Evaluation for AI Systems. Source: Research results</font>
 
 ![image](https://user-images.githubusercontent.com/68818979/172057201-bfd9ea55-479e-4a7e-84d0-5d02eb85fbd3.png)
 
-<font size="2">Picture 13 – Respondent’s adoption rate, of NITI recommended practices for Model Deployment for AI systems</font>
+<font size="2">Figure 13 – Respondent’s adoption rate, of NITI recommended practices for Model Deployment for AI systems. Source: Research results</font>
 
 ![image](https://user-images.githubusercontent.com/68818979/172057213-eb1b83c6-3b73-49ae-a279-7a3e3bad11de.png)
 
-<font size="2">Picture 14 – Respondent’s adoption rate, of NITI recommended practices for Ongoing Monitoring of AI systems</font>
+<font size="2">Figure 14 – Respondent’s adoption rate, of NITI recommended practices for Ongoing Monitoring of AI systems. Source: Research results</font>
 
 Demographic data of research respondents is disclosed on Appendix III.
 
@@ -232,13 +232,13 @@ The infographic bellow visually shows the number of publications addressing Resp
 
 ![image](https://user-images.githubusercontent.com/68818979/172059762-f6cb9074-555b-443a-9640-b70d43dfab02.png)
 
-<font size="2">Picture 15 – infographic with countries and organisms’ publications last 5 years</font>
+<font size="2">Figure 15 – infographic with countries and organisms’ publications last 5 years. Source: Research results</font>
 
 Compiling this list of above 17 publications of 13 countries and four international organisms, an ordered list of Responsible AI Principles was possible to be obtained, resulting on a graph showing the common sense between these places, the topmost concern, and the lesser common principles that received citation by these countries strategies to address a Responsible AI utilization.
 
 ![image](https://user-images.githubusercontent.com/68818979/172059822-ee8b1f75-0b2f-44bb-a296-57fec2332c34.png)
 
-<font size="2">Picture 16 – Responsible AI Principles supported by each of the countries</font>
+<font size="2">Figure 16 – Responsible AI Principles supported by each of the countries. Source: Research results</font>
 
 And compiling the number of Responsible AI Principles that were cited by each Country and International Organism we have this ordered list.
 
@@ -256,23 +256,23 @@ Respondents’ demographic data – with no personal data attached to.
 
 ![image](https://user-images.githubusercontent.com/68818979/172059949-64980a57-7331-41be-ad77-4fd18f1c7cb8.png)
 
-<font size="2">Picture 17 – respondent’s demographic data by Economic Sectors (A), Market Segment (B), Roles (C) and Department (D)</font>
+<font size="2">Figure 17 – respondent’s demographic data by Economic Sectors (A), Market Segment (B), Roles (C) and Department (D). Source: Research results</font>
 
 In relation to the country where the respondent company is head-quartered, this is the geographical distribution, based on each country’s capital geolocation.
 
 ![image](https://user-images.githubusercontent.com/68818979/172059980-bfe177f4-376b-47e5-9531-95bb889add1c.png)
 
-<font size="2">Picture 18 – geolocation of country’s capital of where are the respondent’s companies headquartered. Image source: produced using R tool and the tmap library</font>
+<font size="2">Figure 18 – geolocation of country’s capital of where are the respondent’s companies headquartered. Image source: produced using R tool and the tmap library. Source: Research results</font>
 
 ![image](https://user-images.githubusercontent.com/68818979/172060006-dc586d8e-3244-4820-9494-f673da8a1c31.png)
 
-<font size="2">Picture 19 – Country of the headquarter of respondent’s organizations</font>
+<font size="2">Figure 19 – Country of the headquarter of respondent’s organizations. Source: Research results</font>
 
 Supporting the conclusions – at the body of the text, these three graphs depicted together demonstrates that the major portion of respondents are positively engaged with the Responsible AI principles, all of them positioned at least onto the third quartile of respective graphs, comparing both with the same scale, from 0 (zero) to 100% of engagement index.
 
 ![image](https://user-images.githubusercontent.com/68818979/172060027-99d4df75-b55e-4cfa-b121-10d6be55b610.png)
 
-<font size="2">Picture 20 – Major engagement indexes supporting RAI principles, the Requirements for high-risk AI systems and the NITI practices</font>
+<font size="2">Figure 20 – Major engagement indexes supporting RAI principles, the Requirements for high-risk AI systems and the NITI practices. Source: Research results</font>
 
 
 
