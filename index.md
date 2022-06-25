@@ -247,8 +247,7 @@ And compiling the number of Responsible AI Principles that were cited by each Co
 
 Based onto the curated data gathered from the 17 countries publications about Responsible AI between 2017 and 2021, one questionnaire was draw aiming to gather demography data and the engagement and disengagement indexes related to major AI principles. Questionnaire sessions and questions are shown at the link bellow.
 
-https://drive.google.com/file/d/1AyJ_XohCjrR64XC0At25r_Ig8q1r7DYh/view?usp=sharing 
-
+<a href="(https://drive.google.com/file/d/1AyJ_XohCjrR64XC0At25r_Ig8q1r7DYh/view?usp=sharing)">Questionnaire</a>
 
 ***Appendix III – Demographic data***
 
